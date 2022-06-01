@@ -1,34 +1,6 @@
 # C# Async-Await In Detail - Code It Up Online Vol. 1
 
-This repository contains the presentation and the demos from my event "C# Async-Await In Details - Code It Up Online Vol. 1". If you liked the event or the code, please consider giving me a star. Thank you!
-
-Diamond sponsor:
-
-<table>
-  <tbody>
-    <tr>
-	    <td align="center" valign="middle">
-        <a href="http://bit.ly/3da6h7f" target="_blank">
-          <img width="323px" src="https://user-images.githubusercontent.com/3391906/77094176-c9750100-6a14-11ea-9c8f-7207353b181b.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-Gold sponsor:
-
-<table>
-  <tbody>
-    <tr>
-	    <td align="center" valign="middle">
-        <a href="http://bit.ly/30xsnsC" target="_blank">
-          <img width="148px" src="https://user-images.githubusercontent.com/3391906/65251792-dd848800-daef-11e9-8857-637a48048cda.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+This repository contains the presentation and the demos from my event "C# Async-Await In Details - Code It Up Online Vol. 1"
 
 Table of contents:
 
